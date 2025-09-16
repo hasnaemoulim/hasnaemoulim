@@ -1,12 +1,14 @@
 <!-- Bannière animée ou image -->
-<p align="center">
-  <img src="assets/banner.png" alt="Hi, I'm Hasnae Moulim" width="800"/>
-</p>
-
 # 👩‍💻 Hi, I'm Hasnae Moulim  
 
 🎓 **Software Engineer** | 💡 Passionate about scalable systems & innovative solutions  
 🌍 From Morocco | 🚀 Always learning & exploring new technologies  
+
+<p align="center">
+  <img src="assets/banner.png" alt="Hi, I'm Hasnae Moulim" width="800"/>
+</p>
+
+
 
 ---
 
@@ -72,10 +74,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaemoulim&layout=compact&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnaemoulim&theme=tokyonight" height="150" />
 </p>
 
 ---
