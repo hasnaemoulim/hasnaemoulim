@@ -1,6 +1,6 @@
 <!-- Bannière animée ou image -->
 <p align="center">
-  <img src="assets/banner.gif" alt="Hi, I'm Hasnae Moulim" width="800"/>
+  <img src="assets/banner.png" alt="Hi, I'm Hasnae Moulim" width="800"/>
 </p>
 
 # 👩‍💻 Hi, I'm Hasnae Moulim  
