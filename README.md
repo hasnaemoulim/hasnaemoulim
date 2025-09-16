@@ -9,6 +9,12 @@
 </p>
 
 
+## ✨ About Me  
+
+🔭 Currently working on innovative **software engineering projects**  
+🌱 Learning **React Native**, **Angular**, and exploring **AI in software**  
+📫 Reach me at **hasnaemoulim@gmail.com**  
+⚡ Fun fact: *I turn ☕ coffee into clean, scalable code* 
 
 ---
 
