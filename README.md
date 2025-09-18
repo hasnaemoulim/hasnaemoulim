@@ -83,5 +83,12 @@
 </p>
 
 ---
+---
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hasnaemoulim&theme=onedark&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
+---
 
 ✨ *“Turning ideas into scalable and efficient software solutions.”*  
